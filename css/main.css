@@ -13,17 +13,15 @@ h1{
 a{ 
     color:#00FFBB;
 }
-a:visited{ 
-    color:#00FFBB;
-}
 nav{
 	background:#3A3939;
 }
-p{
-	color:#FFFFFF;
-}
 #header{
-margin: 0 auto;
-width: 225px;
-height: 40px;
+	margin: 0 auto;
+	width: 225px;
+	height: 40px;
+}
+#header2{
+	color: #00FFBB;
+	font-size:36px;
 }
